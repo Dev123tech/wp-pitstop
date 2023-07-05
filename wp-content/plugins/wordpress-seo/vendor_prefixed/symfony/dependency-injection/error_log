@@ -1,0 +1,1 @@
+[24-Oct-2021 13:10:29 UTC] PHP Fatal error:  Interface 'YoastSEO_Vendor\Psr\Container\ContainerInterface' not found in /home/pitstopvadodara/public_html/wp-content/plugins/wordpress-seo/vendor_prefixed/symfony/dependency-injection/ContainerInterface.php on line 23

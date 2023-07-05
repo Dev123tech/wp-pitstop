@@ -1,0 +1,1 @@
+[24-Oct-2021 13:21:30 UTC] PHP Fatal error:  Interface 'YoastSEO_Vendor\GuzzleHttp\Promise\TaskQueueInterface' not found in /home/pitstopvadodara/public_html/wp-content/plugins/wordpress-seo/vendor_prefixed/guzzlehttp/promises/src/TaskQueue.php on line 14

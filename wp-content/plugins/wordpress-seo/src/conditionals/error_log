@@ -1,0 +1,1 @@
+[31-Dec-2020 17:33:31 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/pitstopvadodara/public_html/wp-content/plugins/wordpress-seo/src/conditionals/indexables-feature-flag-conditional.php on line 8

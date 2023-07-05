@@ -1,0 +1,12 @@
+[24-Oct-2021 11:24:47 UTC] PHP Fatal error:  Uncaught Error: Class 'YoastSEO_Vendor\Symfony\Component\DependencyInjection\Exception\RuntimeException' not found in /home/pitstopvadodara/public_html/wp-content/plugins/wordpress-seo/vendor_prefixed/symfony/dependency-injection/Exception/ServiceCircularReferenceException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/pitstopvadodara/public_html/wp-content/plugins/wordpress-seo/vendor_prefixed/symfony/dependency-injection/Exception/ServiceCircularReferenceException.php on line 18
+[24-Oct-2021 11:24:48 UTC] PHP Fatal error:  Uncaught Error: Class 'YoastSEO_Vendor\Symfony\Component\DependencyInjection\Exception\RuntimeException' not found in /home/pitstopvadodara/public_html/wp-content/plugins/wordpress-seo/vendor_prefixed/symfony/dependency-injection/Exception/ServiceCircularReferenceException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/pitstopvadodara/public_html/wp-content/plugins/wordpress-seo/vendor_prefixed/symfony/dependency-injection/Exception/ServiceCircularReferenceException.php on line 18
+[24-Oct-2021 13:50:49 UTC] PHP Fatal error:  Uncaught Error: Class 'YoastSEO_Vendor\Symfony\Component\DependencyInjection\Exception\InvalidArgumentException' not found in /home/pitstopvadodara/public_html/wp-content/plugins/wordpress-seo/vendor_prefixed/symfony/dependency-injection/Exception/ServiceNotFoundException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/pitstopvadodara/public_html/wp-content/plugins/wordpress-seo/vendor_prefixed/symfony/dependency-injection/Exception/ServiceNotFoundException.php on line 19

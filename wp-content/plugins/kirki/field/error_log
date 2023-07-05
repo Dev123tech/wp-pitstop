@@ -1,0 +1,40 @@
+[23-Jan-2021 00:30:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Kirki_Field_Kirki_Generic' not found in /home/pitstopvadodara/public_html/wp-content/plugins/kirki/field/class-kirki-field-text.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/pitstopvadodara/public_html/wp-content/plugins/kirki/field/class-kirki-field-text.php on line 15
+[02-Feb-2021 02:20:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Kirki_Field_Kirki_Generic' not found in /home/pitstopvadodara/public_html/wp-content/plugins/kirki/field/class-kirki-field-text.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/pitstopvadodara/public_html/wp-content/plugins/kirki/field/class-kirki-field-text.php on line 15
+[28-Feb-2021 04:08:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Kirki_Field_Kirki_Generic' not found in /home/pitstopvadodara/public_html/wp-content/plugins/kirki/field/class-kirki-field-text.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/pitstopvadodara/public_html/wp-content/plugins/kirki/field/class-kirki-field-text.php on line 15
+[28-Mar-2021 03:26:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Kirki_Field_Kirki_Generic' not found in /home/pitstopvadodara/public_html/wp-content/plugins/kirki/field/class-kirki-field-text.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/pitstopvadodara/public_html/wp-content/plugins/kirki/field/class-kirki-field-text.php on line 15
+[02-Apr-2021 20:31:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Kirki_Field_Kirki_Generic' not found in /home/pitstopvadodara/public_html/wp-content/plugins/kirki/field/class-kirki-field-text.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/pitstopvadodara/public_html/wp-content/plugins/kirki/field/class-kirki-field-text.php on line 15
+[20-Apr-2021 06:44:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Kirki_Field_Kirki_Generic' not found in /home/pitstopvadodara/public_html/wp-content/plugins/kirki/field/class-kirki-field-text.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/pitstopvadodara/public_html/wp-content/plugins/kirki/field/class-kirki-field-text.php on line 15
+[26-Apr-2021 04:00:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Kirki_Field_Kirki_Generic' not found in /home/pitstopvadodara/public_html/wp-content/plugins/kirki/field/class-kirki-field-text.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/pitstopvadodara/public_html/wp-content/plugins/kirki/field/class-kirki-field-text.php on line 15
+[07-May-2021 22:22:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Kirki_Field_Kirki_Generic' not found in /home/pitstopvadodara/public_html/wp-content/plugins/kirki/field/class-kirki-field-text.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/pitstopvadodara/public_html/wp-content/plugins/kirki/field/class-kirki-field-text.php on line 15
+[12-Jul-2021 22:09:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Kirki_Field_Kirki_Generic' not found in /home/pitstopvadodara/public_html/wp-content/plugins/kirki/field/class-kirki-field-text.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/pitstopvadodara/public_html/wp-content/plugins/kirki/field/class-kirki-field-text.php on line 15
+[18-Jul-2021 18:00:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Kirki_Field_Kirki_Generic' not found in /home/pitstopvadodara/public_html/wp-content/plugins/kirki/field/class-kirki-field-text.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/pitstopvadodara/public_html/wp-content/plugins/kirki/field/class-kirki-field-text.php on line 15

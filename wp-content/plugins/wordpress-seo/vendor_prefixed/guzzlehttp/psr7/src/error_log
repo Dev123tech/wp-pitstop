@@ -1,0 +1,5 @@
+[24-Oct-2021 12:04:31 UTC] PHP Fatal error:  Interface 'YoastSEO_Vendor\Psr\Http\Message\UriInterface' not found in /home/pitstopvadodara/public_html/wp-content/plugins/wordpress-seo/vendor_prefixed/guzzlehttp/psr7/src/Uri.php on line 13
+[24-Oct-2021 22:27:13 UTC] PHP Fatal error:  Uncaught Error: Class 'YoastSEO_Vendor\GuzzleHttp\Psr7\Request' not found in /home/pitstopvadodara/public_html/wp-content/plugins/wordpress-seo/vendor_prefixed/guzzlehttp/psr7/src/ServerRequest.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/pitstopvadodara/public_html/wp-content/plugins/wordpress-seo/vendor_prefixed/guzzlehttp/psr7/src/ServerRequest.php on line 24

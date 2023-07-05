@@ -1,0 +1,4 @@
+[24-Oct-2021 12:26:32 UTC] PHP Fatal error:  Uncaught Error: Class 'WPSEO_Meta' not found in /home/pitstopvadodara/public_html/wp-content/plugins/wordpress-seo/admin/metabox/class-metabox.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/pitstopvadodara/public_html/wp-content/plugins/wordpress-seo/admin/metabox/class-metabox.php on line 11

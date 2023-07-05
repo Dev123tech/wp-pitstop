@@ -1,0 +1,1 @@
+[24-Oct-2021 15:23:17 UTC] PHP Fatal error:  Interface 'YoastSEO_Vendor\Symfony\Component\DependencyInjection\ParameterBag\ParameterBagInterface' not found in /home/pitstopvadodara/public_html/wp-content/plugins/wordpress-seo/vendor_prefixed/symfony/dependency-injection/ParameterBag/ParameterBag.php on line 21

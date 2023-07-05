@@ -1,0 +1,1445 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: stop bad bots\n"
+"POT-Creation-Date: 2020-09-05 12:29+0100\n"
+"PO-Revision-Date: 2018-08-28 16:59-0000\n"
+"Last-Translator: Bill <sergiominozzi@gmail.com>\n"
+"Language-Team: Bill Minozzi <sergiominozzi@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_x;_nx;_e;esc_attr_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: dashboard/memory.php:30
+msgid "Update"
+msgstr ""
+
+#: dashboard/memory.php:31
+msgid "Cancel"
+msgstr ""
+
+#: functions/___functions.php:175 functions/_functions.php:32
+#: functions/_x_functions.php:151 functions/functions.php:274
+msgid "Stop Bad Bots from stealing you."
+msgstr ""
+
+#: functions/___functions.php:176 functions/_functions.php:33
+#: functions/_x_functions.php:152 functions/functions.php:276
+msgid "Read the StartUp guide at Stop Bad Bots Settings page."
+msgstr ""
+
+#: functions/___functions.php:179 functions/_functions.php:36
+#: functions/_x_functions.php:155 functions/functions.php:280
+msgid "Visit the"
+msgstr ""
+
+#: functions/___functions.php:181 functions/_functions.php:38
+#: functions/_x_functions.php:157 functions/functions.php:282
+msgid "plugin site"
+msgstr ""
+
+#: functions/___functions.php:183 functions/_functions.php:40
+#: functions/_x_functions.php:159 functions/functions.php:284
+msgid "for more details, video and online guide."
+msgstr ""
+
+#: functions/___functions.php:186 functions/_functions.php:43
+#: functions/_x_functions.php:162 functions/functions.php:287
+msgid "Overview"
+msgstr ""
+
+#: functions/___functions.php:262 functions/_functions.php:118
+#: functions/_x_functions.php:238 functions/functions.php:369
+msgid "Bots per page"
+msgstr ""
+
+#: functions/___functions.php:276 functions/_functions.php:130
+#: functions/_x_functions.php:252 functions/functions.php:383
+msgid "IPs per page"
+msgstr ""
+
+#: functions/___functions.php:290 functions/___functions.php:304
+#: functions/_functions.php:142 functions/_functions.php:154
+#: functions/_x_functions.php:266 functions/_x_functions.php:280
+#: functions/functions.php:397 functions/functions.php:411
+msgid "Bad Referers per page"
+msgstr ""
+
+#: functions/___functions.php:319 functions/___functions.php:341
+#: functions/___functions.php:361 functions/___functions.php:382
+#: functions/_functions.php:167 functions/_functions.php:189
+#: functions/_functions.php:209 functions/_functions.php:230
+#: functions/_x_functions.php:295 functions/_x_functions.php:317
+#: functions/_x_functions.php:337 functions/_x_functions.php:358
+msgid "Detected Bot on "
+msgstr ""
+
+#: functions/___functions.php:320 functions/___functions.php:342
+#: functions/_functions.php:168 functions/_functions.php:190
+#: functions/_x_functions.php:296 functions/_x_functions.php:318
+#: functions/functions.php:427 functions/functions.php:451
+msgid "Bot was detected and blocked."
+msgstr ""
+
+#: functions/___functions.php:322 functions/___functions.php:344
+#: functions/___functions.php:364 functions/___functions.php:385
+#: functions/___functions.php:405 functions/___functions.php:425
+#: functions/___functions.php:445 functions/___functions.php:467
+#: functions/___functions.php:486 functions/___functions.php:505
+#: functions/_functions.php:170 functions/_functions.php:192
+#: functions/_functions.php:212 functions/_functions.php:233
+#: functions/_functions.php:253 functions/_functions.php:273
+#: functions/_functions.php:293 functions/_x_functions.php:298
+#: functions/_x_functions.php:320 functions/_x_functions.php:340
+#: functions/_x_functions.php:361 functions/_x_functions.php:381
+#: functions/_x_functions.php:401 functions/_x_functions.php:421
+#: functions/_x_functions.php:443 functions/_x_functions.php:462
+#: functions/_x_functions.php:481 functions/functions.php:429
+#: functions/functions.php:453 functions/functions.php:475
+#: functions/functions.php:498 functions/functions.php:520
+#: functions/functions.php:542 functions/functions.php:564
+#: functions/functions.php:587 functions/functions.php:607
+#: functions/functions.php:627 functions/functions.php:647
+#: functions/functions.php:667 functions/functions.php:689
+msgid "Date"
+msgstr ""
+
+#: functions/___functions.php:323 functions/_functions.php:171
+#: functions/_x_functions.php:299 functions/functions.php:430
+msgid "User Agent"
+msgstr ""
+
+#: functions/___functions.php:324 functions/___functions.php:345
+#: functions/___functions.php:365 functions/_functions.php:172
+#: functions/_functions.php:193 functions/_functions.php:213
+#: functions/_x_functions.php:300 functions/_x_functions.php:321
+#: functions/_x_functions.php:341 functions/functions.php:431
+#: functions/functions.php:454 functions/functions.php:476
+msgid "Robot IP Address"
+msgstr ""
+
+#: functions/___functions.php:325 functions/_functions.php:173
+#: functions/_x_functions.php:301 functions/functions.php:432
+msgid "String Found:"
+msgstr ""
+
+#: functions/___functions.php:327 functions/___functions.php:347
+#: functions/___functions.php:368 functions/___functions.php:388
+#: functions/___functions.php:408 functions/___functions.php:428
+#: functions/___functions.php:448 functions/___functions.php:470
+#: functions/___functions.php:489 functions/___functions.php:508
+#: functions/_functions.php:175 functions/_functions.php:195
+#: functions/_functions.php:216 functions/_functions.php:236
+#: functions/_functions.php:256 functions/_functions.php:276
+#: functions/_functions.php:296 functions/_x_functions.php:303
+#: functions/_x_functions.php:323 functions/_x_functions.php:344
+#: functions/_x_functions.php:364 functions/_x_functions.php:384
+#: functions/_x_functions.php:404 functions/_x_functions.php:424
+#: functions/_x_functions.php:446 functions/_x_functions.php:465
+#: functions/_x_functions.php:484 functions/functions.php:434
+#: functions/functions.php:456 functions/functions.php:479
+#: functions/functions.php:501 functions/functions.php:523
+#: functions/functions.php:545 functions/functions.php:567
+#: functions/functions.php:590 functions/functions.php:610
+#: functions/functions.php:630 functions/functions.php:650
+#: functions/functions.php:672 functions/functions.php:692
+msgid "eMail sent by Stop Bad Bots Plugin."
+msgstr ""
+
+#: functions/___functions.php:328 functions/___functions.php:348
+#: functions/___functions.php:369 functions/___functions.php:389
+#: functions/___functions.php:409 functions/___functions.php:429
+#: functions/___functions.php:449 functions/___functions.php:471
+#: functions/___functions.php:490 functions/___functions.php:509
+#: functions/_functions.php:176 functions/_functions.php:196
+#: functions/_functions.php:217 functions/_functions.php:237
+#: functions/_functions.php:257 functions/_functions.php:277
+#: functions/_functions.php:297 functions/_x_functions.php:304
+#: functions/_x_functions.php:324 functions/_x_functions.php:345
+#: functions/_x_functions.php:365 functions/_x_functions.php:385
+#: functions/_x_functions.php:405 functions/_x_functions.php:425
+#: functions/_x_functions.php:447 functions/_x_functions.php:466
+#: functions/_x_functions.php:485 functions/functions.php:436
+#: functions/functions.php:458 functions/functions.php:481
+#: functions/functions.php:503 functions/functions.php:525
+#: functions/functions.php:547 functions/functions.php:569
+#: functions/functions.php:592 functions/functions.php:612
+#: functions/functions.php:632 functions/functions.php:652
+#: functions/functions.php:674 functions/functions.php:694
+msgid "You can stop emails at the Notifications Settings Tab."
+msgstr ""
+
+#: functions/___functions.php:330 functions/___functions.php:350
+#: functions/___functions.php:371 functions/___functions.php:391
+#: functions/___functions.php:411 functions/___functions.php:431
+#: functions/___functions.php:451 functions/___functions.php:473
+#: functions/___functions.php:492 functions/___functions.php:511
+#: functions/_functions.php:178 functions/_functions.php:198
+#: functions/_functions.php:219 functions/_functions.php:239
+#: functions/_functions.php:259 functions/_functions.php:279
+#: functions/_functions.php:299 functions/_x_functions.php:306
+#: functions/_x_functions.php:326 functions/_x_functions.php:347
+#: functions/_x_functions.php:367 functions/_x_functions.php:387
+#: functions/_x_functions.php:407 functions/_x_functions.php:427
+#: functions/_x_functions.php:449 functions/_x_functions.php:468
+#: functions/_x_functions.php:487 functions/functions.php:439
+#: functions/functions.php:461 functions/functions.php:484
+#: functions/functions.php:506 functions/functions.php:528
+#: functions/functions.php:550 functions/functions.php:572
+#: functions/functions.php:595 functions/functions.php:615
+#: functions/functions.php:635 functions/functions.php:655
+#: functions/functions.php:677 functions/functions.php:697
+msgid "Dashboard => Stop Bad Bots => Settings."
+msgstr ""
+
+#: functions/___functions.php:332 functions/___functions.php:352
+#: functions/___functions.php:373 functions/___functions.php:393
+#: functions/___functions.php:413 functions/___functions.php:433
+#: functions/___functions.php:453 functions/___functions.php:475
+#: functions/___functions.php:494 functions/___functions.php:513
+#: functions/_functions.php:180 functions/_functions.php:200
+#: functions/_functions.php:221 functions/_functions.php:241
+#: functions/_functions.php:261 functions/_functions.php:281
+#: functions/_functions.php:301 functions/_x_functions.php:308
+#: functions/_x_functions.php:328 functions/_x_functions.php:349
+#: functions/_x_functions.php:369 functions/_x_functions.php:389
+#: functions/_x_functions.php:409 functions/_x_functions.php:429
+#: functions/_x_functions.php:451 functions/_x_functions.php:470
+#: functions/_x_functions.php:489
+msgid "Visit us to learn how get Weekly Updates:"
+msgstr ""
+
+#: functions/___functions.php:362 functions/_functions.php:210
+#: functions/_x_functions.php:338 functions/functions.php:473
+msgid "Malicious bot was detected and blocked by firewall."
+msgstr ""
+
+#: functions/___functions.php:366 functions/_functions.php:214
+#: functions/_x_functions.php:342 functions/functions.php:477
+msgid "Malicious String Found:"
+msgstr ""
+
+#: functions/___functions.php:383 functions/_functions.php:231
+#: functions/_x_functions.php:359 functions/functions.php:496
+msgid "Bad Referer Bot was detected and blocked by Stop Bad Bots Plugin."
+msgstr ""
+
+#: functions/___functions.php:386 functions/_functions.php:234
+#: functions/_x_functions.php:362 functions/functions.php:499
+msgid "Referer String Found:"
+msgstr ""
+
+#: functions/___functions.php:402 functions/___functions.php:422
+#: functions/___functions.php:442 functions/___functions.php:463
+#: functions/_functions.php:250 functions/_functions.php:270
+#: functions/_functions.php:290 functions/_x_functions.php:378
+#: functions/_x_functions.php:398 functions/_x_functions.php:418
+#: functions/_x_functions.php:439
+msgid "Detected Possible Bot on "
+msgstr ""
+
+#: functions/___functions.php:403 functions/_functions.php:251
+#: functions/_x_functions.php:379 functions/functions.php:518
+msgid "Empty User Agent was detected and blocked by Stop Bad Bots Plugin."
+msgstr ""
+
+#: functions/___functions.php:406 functions/___functions.php:426
+#: functions/___functions.php:446 functions/___functions.php:468
+#: functions/___functions.php:487 functions/___functions.php:506
+#: functions/_functions.php:254 functions/_functions.php:274
+#: functions/_functions.php:294 functions/_x_functions.php:382
+#: functions/_x_functions.php:402 functions/_x_functions.php:422
+#: functions/_x_functions.php:444 functions/_x_functions.php:463
+#: functions/_x_functions.php:482 functions/functions.php:521
+#: functions/functions.php:543 functions/functions.php:565
+#: functions/functions.php:588 functions/functions.php:608
+#: functions/functions.php:628 functions/functions.php:648
+#: functions/functions.php:670 functions/functions.php:690
+msgid "IP Found:"
+msgstr ""
+
+#: functions/___functions.php:423 functions/_functions.php:271
+#: functions/_x_functions.php:399 functions/functions.php:540
+msgid "PingBack Requested was detected and blocked by Stop Bad Bots Plugin."
+msgstr ""
+
+#: functions/___functions.php:443 functions/_functions.php:291
+#: functions/_x_functions.php:419 functions/functions.php:562
+msgid "User Enumeration was detected and blocked by Stop Bad Bots Plugin."
+msgstr ""
+
+#: functions/___functions.php:464 functions/_x_functions.php:440
+#: functions/functions.php:584
+msgid "False Google/Bing/Msn was detected and blocked by Stop Bad Bots Plugin."
+msgstr ""
+
+#: functions/___functions.php:465 functions/_x_functions.php:441
+#: functions/functions.php:585
+msgid "Fake User Agent:"
+msgstr ""
+
+#: functions/___functions.php:485 functions/_x_functions.php:461
+msgid "Detected Spammer in Contact Form 7 "
+msgstr ""
+
+#: functions/___functions.php:504 functions/_x_functions.php:480
+#: functions/functions.php:626
+msgid "Detected Spammer in Comments Form"
+msgstr ""
+
+#: functions/___functions.php:1015 functions/_functions.php:751
+#: functions/_x_functions.php:991 functions/functions.php:1292
+msgid "Stop Bad Bots Plugin was activated!"
+msgstr ""
+
+#: functions/___functions.php:1018 functions/_functions.php:754
+#: functions/_x_functions.php:994 functions/functions.php:1296
+msgid "For details and help, take a look at Stop Bad Bots at your left menu"
+msgstr ""
+
+#: functions/___functions.php:1022 functions/_functions.php:758
+#: functions/_x_functions.php:998 functions/functions.php:1301
+msgid "or click here"
+msgstr ""
+
+#: functions/___functions.php:1041 functions/_functions.php:775
+#: functions/_x_functions.php:1017 functions/functions.php:1320
+msgid "Add new bad bot to the bad bots Table."
+msgstr ""
+
+#: functions/___functions.php:1043 functions/_functions.php:777
+#: functions/_x_functions.php:1019 functions/functions.php:1325
+msgid "Bad Bot Nickname:"
+msgstr ""
+
+#: functions/___functions.php:1049 functions/_functions.php:783
+#: functions/_x_functions.php:1025 functions/functions.php:1335
+msgid "Add new bad IP to the bad IPs Table."
+msgstr ""
+
+#: functions/___functions.php:1051 functions/_functions.php:785
+#: functions/_x_functions.php:1027 functions/functions.php:1340
+msgid "Bad Bot IP:"
+msgstr ""
+
+#: functions/___functions.php:1057 functions/_functions.php:791
+#: functions/_x_functions.php:1033 functions/functions.php:1350
+msgid "Add new bad Referer to the bad Referer Table."
+msgstr ""
+
+#: functions/___functions.php:1059 functions/_functions.php:793
+#: functions/_x_functions.php:1035 functions/functions.php:1355
+msgid "Bad Referer Name:"
+msgstr ""
+
+#: functions/___functions.php:1079 functions/_functions.php:813
+#: functions/_x_functions.php:1055 functions/functions.php:1379
+msgid ""
+"In addiction to default system table, you can add one or more string to the "
+"table."
+msgstr ""
+
+#: functions/___functions.php:1082 functions/_functions.php:816
+#: functions/_x_functions.php:1058 functions/functions.php:1383
+msgid "Example: SpiderBot (no case sensitive)"
+msgstr ""
+
+#: functions/___functions.php:1084 functions/_functions.php:818
+#: functions/_x_functions.php:1060 functions/functions.php:1385
+msgid "Just a piece of the name is enough."
+msgstr ""
+
+#: functions/___functions.php:1086 functions/_functions.php:820
+#: functions/_x_functions.php:1062 functions/functions.php:1388
+msgid ""
+"For example, if you put \"bot\" will block all bots with the string bot at "
+"user agent name."
+msgstr ""
+
+#: functions/___functions.php:1089 functions/_functions.php:823
+#: functions/_x_functions.php:1065 functions/functions.php:1393
+msgid ""
+"Attention: In this case, you will block also google bot because their name "
+"is GoogleBot."
+msgstr ""
+
+#: functions/___functions.php:1093 functions/_functions.php:827
+#: functions/_x_functions.php:1069 functions/functions.php:1398
+msgid "Do not use special characters."
+msgstr ""
+
+#: functions/___functions.php:1096 functions/_functions.php:830
+#: functions/_x_functions.php:1072 functions/functions.php:1402
+msgid "Add one bad bot each time. The table don't accept duplicate nicknames."
+msgstr ""
+
+#: functions/___functions.php:1101 functions/_functions.php:835
+#: functions/_x_functions.php:1077 functions/functions.php:1409
+msgid ""
+"In addiction to default ip table, you can add one or more ip to the table."
+msgstr ""
+
+#: functions/___functions.php:1104 functions/_functions.php:838
+#: functions/_x_functions.php:1080 functions/functions.php:1414
+msgid "Add one bad ip each time. The table don't accept duplicate ips."
+msgstr ""
+
+#: functions/___functions.php:1107 functions/_functions.php:841
+#: functions/_x_functions.php:1083 functions/functions.php:1419
+msgid "Be carefull. This IP will be blocked to access your site."
+msgstr ""
+
+#: functions/___functions.php:1112 functions/_functions.php:846
+#: functions/_x_functions.php:1088 functions/functions.php:1426
+msgid ""
+"In addiction to default referer table, you can add one or more referers to "
+"the table."
+msgstr ""
+
+#: functions/___functions.php:1115 functions/_functions.php:849
+#: functions/_x_functions.php:1091 functions/functions.php:1431
+msgid "Add one bad referer each time. The table don't accept duplicate names."
+msgstr ""
+
+#: functions/___functions.php:1118 functions/_functions.php:852
+#: functions/_x_functions.php:1094 functions/functions.php:1436
+msgid "Be carefull. This Referer will be blocked to access your site."
+msgstr ""
+
+#: functions/___functions.php:1124 functions/_functions.php:858
+#: functions/_x_functions.php:1100 functions/functions.php:1444
+msgid "Bot included at table!"
+msgstr ""
+
+#: functions/___functions.php:1130 functions/_functions.php:864
+#: functions/_x_functions.php:1106 functions/functions.php:1452
+msgid ""
+"Fail to include bot! Check bot nickname and remember Duplicates are not "
+"allowed. "
+msgstr ""
+
+#: functions/___functions.php:1137 functions/_functions.php:871
+#: functions/_x_functions.php:1113 functions/functions.php:1460
+msgid "IP included at table!"
+msgstr ""
+
+#: functions/___functions.php:1143 functions/_functions.php:877
+#: functions/_x_functions.php:1119 functions/functions.php:1467
+msgid ""
+"Fail to include IP! Check bot IP and remember Duplicates are not allowed. "
+msgstr ""
+
+#: functions/___functions.php:1150 functions/_functions.php:884
+#: functions/_x_functions.php:1126 functions/functions.php:1475
+msgid "Referer included at table!"
+msgstr ""
+
+#: functions/___functions.php:1156 functions/_functions.php:890
+#: functions/_x_functions.php:1132 functions/functions.php:1482
+msgid ""
+"Fail to include Referer! Check referer name and remember Duplicates are not "
+"allowed. "
+msgstr ""
+
+#: functions/___functions.php:2002 functions/_x_functions.php:1978
+#: functions/functions.php:2344
+msgid "Bad Bots can do all sorts of nasty stuff and waste server resources."
+msgstr ""
+
+#: functions/___functions.php:2006 functions/_x_functions.php:1982
+#: functions/functions.php:2348
+msgid "Bad bots don’t play by the rules."
+msgstr ""
+
+#: functions/___functions.php:2010 functions/_x_functions.php:1986
+msgid "Bad Bots stresses your Web servers."
+msgstr ""
+
+#: functions/___functions.php:2014 functions/_x_functions.php:1990
+msgid "30% OFF! Use the coupon code: special-10_2019. Limited time!"
+msgstr ""
+
+#: functions/___functions.php:2018 functions/_functions.php:1667
+#: functions/_functions.php:1673 functions/_x_functions.php:1994
+#: functions/functions.php:2364
+msgid "Become Pro: Your bad bots table is always updated."
+msgstr ""
+
+#: functions/___functions.php:2020 functions/_x_functions.php:1996
+#: functions/functions.php:2366
+msgid "Stop Bad Bots Plugin. Its time to Get Pro Protection!"
+msgstr ""
+
+#: functions/___functions.php:2183 functions/_functions.php:1798
+#: functions/_x_functions.php:2137 functions/functions.php:2515
+#: settings/options/plugin_options_tabbed.php:548
+msgid "Learn More"
+msgstr ""
+
+#: functions/___functions.php:2187 functions/_functions.php:1802
+#: functions/_x_functions.php:2141 functions/functions.php:2525
+msgid "Dismiss"
+msgstr ""
+
+#: functions/_functions.php:1649
+msgid "Go Pro: Your bad bots table is always updated."
+msgstr ""
+
+#: functions/_functions.php:1655
+msgid "Power for block bad bots: Your bad bots table is always updated."
+msgstr ""
+
+#: functions/_functions.php:1661
+msgid "Get Premium Performance: Stop Bad Bots and save bandwidth."
+msgstr ""
+
+#: functions/_functions.php:1678
+msgid "It is time to upgrade and get"
+msgstr ""
+
+#: functions/functions.php:426 functions/functions.php:450
+#: functions/functions.php:472 functions/functions.php:495
+msgid "Detected Bot on"
+msgstr ""
+
+#: functions/functions.php:441 functions/functions.php:463
+#: functions/functions.php:486 functions/functions.php:508
+#: functions/functions.php:530 functions/functions.php:552
+#: functions/functions.php:574 functions/functions.php:597
+#: functions/functions.php:617 functions/functions.php:637
+#: functions/functions.php:657 functions/functions.php:679
+#: functions/functions.php:699
+msgid "Visit us to learn how get Weekly Updates and more features:"
+msgstr ""
+
+#: functions/functions.php:517 functions/functions.php:539
+#: functions/functions.php:561 functions/functions.php:583
+msgid "Detected Possible Bot on"
+msgstr ""
+
+#: functions/functions.php:606
+msgid "Detected Spammer in Contact Form"
+msgstr ""
+
+#: functions/functions.php:646
+msgid "Detected bot in Login Form"
+msgstr ""
+
+#: functions/functions.php:666
+msgid "Detected bot using HTTP tools"
+msgstr ""
+
+#: functions/functions.php:668
+msgid "HTTP tool:"
+msgstr ""
+
+#: functions/functions.php:688
+msgid "Blocked Bot by Rate Limiting"
+msgstr ""
+
+#: functions/functions.php:2352
+msgid "Bad Bots stresses, harm and slowly your Web servers."
+msgstr ""
+
+#: functions/functions.php:2356
+msgid "Show support with a 5-star rating."
+msgstr ""
+
+#: functions/functions.php:2360
+msgid ""
+"BLACK FRIDAY 30% OFF! Use the coupon code: special-black_2019. Limited time!"
+msgstr ""
+
+#: functions/functions.php:2508
+msgid "Help keep Stop Bad Bots plugin going strong!"
+msgstr ""
+
+#: functions/functions.php:2519
+msgid "Go to WordPress"
+msgstr ""
+
+#: functions/functions.php:3127
+msgid ""
+"Your IP is blacklisted on Internet Public Databases. Please, use another way "
+"to contact us."
+msgstr ""
+
+#: functions/functions.php:3132
+msgid ""
+"Looks Like This Message doesn't come from our site. Please, use another way "
+"to contact us."
+msgstr ""
+
+#: functions/health.php:47
+msgid "My Memory Test"
+msgstr ""
+
+#: functions/health.php:61
+msgid "Critical"
+msgstr ""
+
+#: functions/health.php:66
+msgid "Low WordPress Memory Limit in wp-config file"
+msgstr ""
+
+#: functions/health.php:69
+msgid ""
+"Run your site with low memory available, can result in behaving slowly, or "
+"pages fail to load, you get random white screens of death or 500 internal "
+"server error. Basically, the more content, features and plugins you add to "
+"your site, the bigger your memory limit has to be. Increase the WP Memory "
+"Limit is a standard practice in WordPress. You can manually increase memory "
+"limit in WordPress by editing the wp-config.php file. You can find "
+"instructions in the official WordPress documentation (Increasing memory "
+"allocated to PHP). Just click the link below: "
+msgstr ""
+
+#: functions/health.php:74
+msgid "WordPress Help Page"
+msgstr ""
+
+#: guide/guide.php:9
+msgid "Open the General Settings Tab and click over Yes  (to begin to block)."
+msgstr ""
+
+#: guide/guide.php:12
+msgid ""
+"You can also add  Bad Bots at bad bots table. Dashboard => Stop Bad Bots => "
+"Add Bad Bot to Table."
+msgstr ""
+
+#: guide/guide.php:15
+msgid ""
+"You can also add  Bad IPs at bad IPs table. Dashboard => Stop Bad Bots => "
+"Add Bad IP to Table."
+msgstr ""
+
+#: guide/guide.php:20
+msgid ""
+"You can also add  Bad Referer at bad Referer table. Dashboard => Stop Bad "
+"Bots => Add Bad Referer to Table."
+msgstr ""
+
+#: guide/guide.php:24
+msgid "You can go to Limit Bots Visits tab and block bots by visit number."
+msgstr ""
+
+#: guide/guide.php:29
+msgid "You can go to Block HTTP tools tab and manage it."
+msgstr ""
+
+#: guide/guide.php:34
+msgid "You can go to WhiteList tab and manage  String and IP table."
+msgstr ""
+
+#: guide/guide.php:42
+msgid ""
+"At eMail and Notifications tab, you can customize your contact email or left "
+"blank to use your WordPress eMail."
+msgstr ""
+
+#: guide/guide.php:45
+msgid ""
+"You can record your option by receive or not email alerts about bots "
+"attempts and firewall blocks."
+msgstr ""
+
+#: guide/guide.php:50
+msgid ""
+"Look our Go Pro tab about how to get weekly updates, more features and "
+"Firewall protection."
+msgstr ""
+
+#: guide/guide.php:55
+msgid "Please, read this:"
+msgstr ""
+
+#: guide/guide.php:58
+msgid "Maybe not all bots are bad for you. You need manage the bots table."
+msgstr ""
+
+#: guide/guide.php:60
+msgid ""
+"Open the page Bad Bots Table  (under Stop Bad Bots Menu) and take a look at "
+"Default Bad Bots List. If you wish, you can turn off some. (Just check, Bulk "
+"Actions, Apply). Our plugin will create a table with more than 2500 Bots."
+msgstr ""
+
+#: guide/guide.php:61
+msgid ""
+"You can see how many times each bot was blocked at the column Num Blocked. "
+"Click the title (Num Blocked) to order by."
+msgstr ""
+
+#: guide/guide.php:64
+msgid "Check the bot's table frequently, especially in the first days."
+msgstr ""
+
+#: guide/guide.php:65
+msgid ""
+"Confirm if you want block all that bots. Maybe you want unblock Baidu, "
+"DuckDuck, Yandex, Seznam or another search engine in your language or some "
+"social sites or some useful bot for you."
+msgstr ""
+
+#: guide/guide.php:67
+msgid ""
+"If you use RSS FEED services, probably they have their bot to read your "
+"feeds."
+msgstr ""
+
+#: guide/guide.php:68
+msgid "Remember to deactivate their bot."
+msgstr ""
+
+#: guide/guide.php:69
+msgid "Same thing if you create some smartphone APP."
+msgstr ""
+
+#: guide/guide.php:71
+msgid ""
+"We have also a table of bad IPs. Many bad bots use fake or blank User Agent. "
+"Then, we need block them by IP."
+msgstr ""
+
+#: guide/guide.php:73
+msgid ""
+"Some search engine or social media, like Telegram, Whatsapp, Qwant, Mail.ru, "
+"LinkedIn, bitlybot, Applebot, AppleNewsBot, SkypeUriPreview, FacebookBot, "
+"twitterbot, vkShare\n"
+"for example, sometimes send bots with empty user agent (or another bad "
+"practice) and our system catch them."
+msgstr ""
+
+#: guide/guide.php:75
+msgid ""
+"Check also the IP's table frequently, especially in the first days. Confirm "
+"if you want block all that IPs."
+msgstr ""
+
+#: guide/guide.php:77
+msgid ""
+"If you need more info about each bot or IP, visit our site www.StopBadBots."
+"com (page Bots Table and Boats Table by IP)"
+msgstr ""
+
+#: guide/guide.php:80
+msgid ""
+"Note: If you use the plugin WPFastestCache, deactivate the bot named \"test"
+"\" at Bad Bots Table. (Dashboard => Stop Bad Bots => Bad Bots Table)"
+msgstr ""
+
+#: guide/guide.php:83
+msgid ""
+"StopBadBots it is a powerfull tool. Then, like all powerfull tools it is "
+"necessary to use carefully."
+msgstr ""
+
+#: guide/guide.php:85
+msgid "It is up to you determine what bot is beneficial or detrimental."
+msgstr ""
+
+#: guide/guide.php:87
+msgid ""
+"Unfortunately the amount of bots is growing vertiginously. They can overload "
+"your site. You need invest time to manage this."
+msgstr ""
+
+#: guide/guide.php:91
+msgid "Remember to click Save Changes before to left each tab."
+msgstr ""
+
+#: guide/guide.php:94
+msgid "You don't need create any robots.txt or htaccess file. "
+msgstr ""
+
+#: guide/guide.php:97
+msgid "The Plugin doesn't block main Google, Yahoo and Bing (Microsoft)."
+msgstr ""
+
+#: guide/guide.php:118
+msgid ""
+"Visit the plugin site for more details, video, online guide, FAQ and "
+"Troubleshooting page and bot's and IP's details."
+msgstr ""
+
+#: guide/guide.php:121
+msgid "OnLine Guide"
+msgstr ""
+
+#: guide/guide.php:123
+msgid "Faq Page"
+msgstr ""
+
+#: guide/guide.php:125
+msgid "Support Page"
+msgstr ""
+
+#: guide/guide.php:127
+msgid "Troubleshooting Page"
+msgstr ""
+
+#: guide/guide.php:129
+msgid "Go Pro"
+msgstr ""
+
+#: includes/feedback/activated-manager.php:123
+#: includes/feedback/feedback-last.php:107
+msgid "Hi, my name is Bill Minozzi, and I am developer of"
+msgstr ""
+
+#: includes/feedback/activated-manager.php:132
+#: includes/feedback/feedback-last.php:114
+msgid "Thank You!"
+msgstr ""
+
+#: includes/feedback/activated-manager.php:135
+msgid "Yes, Submit"
+msgstr ""
+
+#: includes/feedback/activated-manager.php:137
+msgid "Skip"
+msgstr ""
+
+#: includes/feedback/feedback-last.php:106
+msgid ""
+"If you have a moment, Please, let us know you and why you are deactivating."
+msgstr ""
+
+#: includes/feedback/feedback-last.php:112
+msgid ""
+"If you Kindly tell us the reason so we can improve it and maybe give some "
+"support by email to you."
+msgstr ""
+
+#: includes/feedback/feedback-last.php:116
+msgid "type here yours sugestions ..."
+msgstr ""
+
+#: includes/feedback/feedback-last.php:118
+msgid "(In this case, we are unable to email you)"
+msgstr ""
+
+#: includes/feedback/feedback-last.php:120
+msgid "Yes, Submit and Deactivate"
+msgstr ""
+
+#: includes/feedback/feedback-last.php:122
+msgid "Cancel Deactivation"
+msgstr ""
+
+#: includes/feedback/feedback-last.php:123
+msgid "No, Just Deactivate it"
+msgstr ""
+
+#: includes/feedback/feedback.php:131
+msgid "Bill Minozzi"
+msgstr ""
+
+#: includes/feedback/feedback.php:135
+msgid "Hello, my name is Bill Minozzi, and I am developer of"
+msgstr ""
+
+#: includes/feedback/feedback.php:138
+msgid ""
+"If you like this product, please write a few words about it. It will help "
+"other people find this useful plugin more quickly.<br><b>Thank you!</b>"
+msgstr ""
+
+#: includes/feedback/feedback.php:140
+msgid "Rate or Share"
+msgstr ""
+
+#: includes/feedback/feedback.php:141
+msgid "No, dismiss"
+msgstr ""
+
+#: includes/feedback/feedback.php:142
+msgid "or"
+msgstr ""
+
+#: includes/feedback/feedback.php:143
+msgid "Remind me later"
+msgstr ""
+
+#: includes/list-tables/class-sbb-list-table.php:18
+msgid "Nickname"
+msgstr ""
+
+#: includes/list-tables/class-sbb-list-table.php:19
+msgid "Name"
+msgstr ""
+
+#: includes/list-tables/class-sbb-list-table.php:20
+#: includes/list-tables/class-sbb-list-table2.php:19
+#: includes/list-tables/class-sbb-list-table3.php:19
+msgid "Status"
+msgstr ""
+
+#: includes/list-tables/class-sbb-list-table.php:21
+#: includes/list-tables/class-sbb-list-table2.php:21
+#: includes/list-tables/class-sbb-list-table3.php:21
+msgid "Num Blocked"
+msgstr ""
+
+#: includes/list-tables/class-sbb-list-table.php:29
+msgid "botnickname"
+msgstr ""
+
+#: includes/list-tables/class-sbb-list-table.php:30
+#: includes/list-tables/class-sbb-list-table3.php:28
+msgid "botname"
+msgstr ""
+
+#: includes/list-tables/class-sbb-list-table.php:32
+#: includes/list-tables/class-sbb-list-table2.php:32
+#: includes/list-tables/class-sbb-list-table3.php:31
+msgid "botblocked"
+msgstr ""
+
+#: includes/list-tables/class-sbb-list-table.php:66
+#: includes/list-tables/class-sbb-list-table2.php:65
+#: includes/list-tables/class-sbb-list-table3.php:64
+msgid "Change Status"
+msgstr ""
+
+#: includes/list-tables/class-sbb-list-table.php:76
+#: includes/list-tables/class-sbb-list-table.php:85
+#: includes/list-tables/class-sbb-list-table2.php:75
+#: includes/list-tables/class-sbb-list-table2.php:84
+#: includes/list-tables/class-sbb-list-table3.php:74
+#: includes/list-tables/class-sbb-list-table3.php:83
+msgid "deactivate"
+msgstr ""
+
+#: includes/list-tables/class-sbb-list-table.php:84
+#: includes/list-tables/class-sbb-list-table2.php:83
+#: includes/list-tables/class-sbb-list-table3.php:82
+msgid "Activate"
+msgstr ""
+
+#: includes/list-tables/class-sbb-list-table2.php:18
+msgid "IP"
+msgstr ""
+
+#: includes/list-tables/class-sbb-list-table2.php:20
+#: includes/list-tables/class-sbb-list-table3.php:20
+msgid "Added by"
+msgstr ""
+
+#: includes/list-tables/class-sbb-list-table2.php:29
+msgid "botip"
+msgstr ""
+
+#: includes/list-tables/class-sbb-list-table3.php:18
+msgid "Referer Name"
+msgstr ""
+
+#: includes/list-tables/page.php:14
+msgid "Search Nickname"
+msgstr ""
+
+#: includes/list-tables/page2.php:16
+msgid "Search IP"
+msgstr ""
+
+#: includes/list-tables/page3.php:16
+msgid "Search Referer"
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:9
+#: settings/options/plugin_options_tabbed.php:88
+msgid "Block all Bots included at Bad Bots Table?"
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:11
+msgid ""
+"You need only check yes or no below. All Bad Bots enabled at Bad Bots Table "
+"will be blocked."
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:13
+msgid ""
+"To manage the bots individually, go to Bad Bots Table (Dashboard=> Stop Bad "
+"Bots =>Bad Bots Table)."
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:15
+msgid ""
+"If you check \"test mode\", the system don't block but update statistics and "
+"send email notifications to you."
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:18
+#: settings/options/plugin_options_tabbed.php:27
+msgid "Then click SAVE CHANGES."
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:21
+msgid "Block all Bots included at Bad IPs Table?"
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:23
+msgid ""
+"You need only check yes or no below. All Bad IPs enabled at Bad IPs Table "
+"will be blocked."
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:25
+msgid ""
+"To manage the IPs individually, go to Bad IPs Table (Dashboard=> Stop Bad "
+"Bots =>Bad IPs Table)."
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:33
+msgid "Enable Block Bad Referer?"
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:35
+msgid ""
+"Enabling Block Bad Referer the plugin will blocks  websites that use Referer "
+"Spam to promote their."
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:40
+msgid "Enable Firewall?"
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:42
+msgid ""
+"Enabling Firewall the plugin will blocks malicious requests also from "
+"hackers. 100% Plug-n-play, no configuration required."
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:47
+msgid "Participate in the Real-Time Bad Bots Security Network?"
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:49
+msgid ""
+"Enabling this feature causes your site to anonymously share data with Stop "
+"Bad Bots on Bad Bots visits. In return your WordPress site receives updates "
+"at your Bad Bots Table with new Bad Bots Names, IPs and bad referer."
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:51
+msgid ""
+"No personally identifiable data is sent by this option and we also do not "
+"associate any of the data we do receive with your specific website. The data "
+"is aggregated on a real-time platform to determine which Bots are currently "
+"engaged in negative activity and need to be blocked by our community."
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:55
+#: settings/options/plugin_options_tabbed.php:152
+msgid "Block all with Blank User Agent?"
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:57
+msgid ""
+"This can reduce abuse against your site. Look your metrics menu in cPanel or "
+"request support to your hosting company for details about your visitors, if "
+"necessary."
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:60
+msgid "Block User Enumeration?"
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:62
+msgid ""
+"This can block bad bots scan by user id and user and login name. This "
+"happens a lot and is often a pre-cursor to very nasty activities and attacks."
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:66
+#: settings/options/plugin_options_tabbed.php:172
+msgid "Block PingBack Request?"
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:68
+msgid ""
+"PingBack request happens a lot and is often a pre-cursor to brute-force "
+"password attacks and others nasty things."
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:83
+#: settings/options/plugin_options_tabbed.php:255
+msgid "Instructions"
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:90
+#: settings/options/plugin_options_tabbed.php:100
+#: settings/options/plugin_options_tabbed.php:110
+#: settings/options/plugin_options_tabbed.php:121
+#: settings/options/plugin_options_tabbed.php:132
+#: settings/options/plugin_options_tabbed.php:142
+#: settings/options/plugin_options_tabbed.php:154
+#: settings/options/plugin_options_tabbed.php:164
+#: settings/options/plugin_options_tabbed.php:174
+#: settings/options/plugin_options_tabbed.php:187
+#: settings/options/plugin_options_tabbed.php:197
+#: settings/options/plugin_options_tabbed.php:208
+#: settings/options/plugin_options_tabbed.php:220
+#: settings/options/plugin_options_tabbed.php:265
+#: settings/options/plugin_options_tabbed.php:368
+#: settings/options/plugin_options_tabbed.php:411
+msgid "yes"
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:91
+#: settings/options/plugin_options_tabbed.php:101
+#: settings/options/plugin_options_tabbed.php:111
+#: settings/options/plugin_options_tabbed.php:122
+#: settings/options/plugin_options_tabbed.php:133
+#: settings/options/plugin_options_tabbed.php:143
+#: settings/options/plugin_options_tabbed.php:155
+#: settings/options/plugin_options_tabbed.php:165
+#: settings/options/plugin_options_tabbed.php:175
+#: settings/options/plugin_options_tabbed.php:188
+#: settings/options/plugin_options_tabbed.php:198
+#: settings/options/plugin_options_tabbed.php:209
+#: settings/options/plugin_options_tabbed.php:221
+#: settings/options/plugin_options_tabbed.php:266
+#: settings/options/plugin_options_tabbed.php:369
+#: settings/options/plugin_options_tabbed.php:412
+msgid "no"
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:92
+msgid "test mode"
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:98
+msgid "Block all IPs included at Bad IPs Table?"
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:108
+msgid "Block all bots included at Bad Referer Table?"
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:119
+msgid "Enable Firewall? (available only in pro version)"
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:130
+msgid ""
+"Receive bot's table updates by participate in the Real-Time Bad Bots "
+"Security Network?"
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:140
+msgid "Update this plugin automatically when new version is available?"
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:162
+msgid "Block User enumeration to improve security?"
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:185
+msgid "Protect Contact Form 7 and WP Forms?"
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:195
+msgid ""
+"Protect Comments Form by check external spammer's databases (only when "
+"comment form is submited)?"
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:206
+msgid "Protect Login Form against bots?"
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:218
+msgid ""
+"Block False Googlebot and Msnbot & Bingbot?  (available only in pro version)"
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:243
+#: settings/options/plugin_options_tabbed.php:347
+#: settings/options/plugin_options_tabbed.php:391
+msgid "This page works only in Premium Version."
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:245
+msgid ""
+"We can't block all bots. We need, for example, allow google, uptime, "
+"wordpress, stripe and others."
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:248
+msgid ""
+"We can limit a number of bot's visits (non humans), just choose the options "
+"below."
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:250
+msgid "You can also whitelist bots, look the Whitelist tab."
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:252
+msgid ""
+"Search engine crawlers has unlimited access (look Whitelist tab) but you can "
+"block them (remove from Whitelist) and include new ones on User Agent Tables."
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:263
+msgid "Enable the Rate Limiting for non humans?"
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:287
+msgid "If a bot requests exceed"
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:291
+#: settings/options/plugin_options_tabbed.php:308
+msgid "Unlimited"
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:292
+msgid "1 per minute"
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:293
+msgid "2 per minute"
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:294
+msgid "3 per minute"
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:295
+msgid "4 per minute"
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:296
+msgid "5 per minute"
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:304
+msgid "Or if a bot requests exceed"
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:309
+msgid "5 per hour"
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:310
+msgid "10 per hour"
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:311
+msgid "20 per hour"
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:312
+msgid "50 per hour"
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:313
+msgid "100 per hour"
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:321
+msgid "How long is an IP address blocked when it breaks a rule"
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:325
+msgid "5 minutes"
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:326
+msgid "30 minutes"
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:327
+msgid "1 Hour"
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:328
+msgid "2 Hours"
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:329
+msgid "6 Hours"
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:330
+msgid "24 Hours"
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:349
+msgid "HTTP Tools are tools to do HTTP request, used for not humans."
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:352
+msgid "To Block HTTP Tools, just add one for each line."
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:354
+msgid ""
+"To Manage, you can also remove one or more lines. Then, click Save Changes."
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:356
+msgid ""
+"Activate eMail notification for some days and manage the Whitelist tables."
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:359
+msgid "Instructions about to block HTTP tools (Only Premium)"
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:366
+msgid "Block HTTP tools?"
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:394
+msgid ""
+"This tables are very usefull if you want to block HTTP tools or use Rate "
+"Limiting.You can create 2 whitelist in this page: String and IP."
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:397
+msgid "Just add one string to unblock all User Agent that contain that string."
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:399
+msgid "For IP withelist, just add the IP to unblock it."
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:401
+msgid "Add only one for each line."
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:403
+msgid "Instructions about User Agent String and IP Whitelist. (Only Premium)"
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:409
+msgid "Enable Both Withelist?"
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:435
+msgid "Fill out the email address to send messages."
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:437
+msgid ""
+"Left Blank to use your default WordPress email. Then, click save changes."
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:448
+msgid "Do you want receive email alerts for each bot attempt?"
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:450
+msgid "If you under brute force attack, you will receive a lot of emails."
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:452
+msgid ""
+"You can see the bots attacks info at Bad Bots Table. (column Num Blocked)."
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:462
+msgid "Alert me by email each Bots Attempts"
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:472
+msgid ""
+"Alert me All Times Firewall Block Something. (available only in pro version)"
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:474
+msgid "Yes"
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:475
+msgid "No"
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:499
+msgid ""
+"Remember: Hackers use bots and brute force attacks and can slow down your "
+"site."
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:501
+msgid "Do you want also Anti Hacker free protection?"
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:503
+msgid "Just install this free plugin: "
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:508
+msgid ""
+"You can to disable the WordPress xml-rpc - xmlrpc - or disable only "
+"Pingaback API"
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:510
+msgid "You can to disable Json WordPress Rest API "
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:512
+msgid "You can to block comments in media page."
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:514
+msgid "You can to block All Feeds (Optional)."
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:516
+msgid "Protect Login Form againt bruteforce attack."
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:518
+msgid "And a lot more tools."
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:523
+msgid ""
+"No DNS or cloud traffic redirection. No slow down your site. No Google "
+"penalties."
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:542
+msgid ""
+"Get Premium and receive, automatically, weekly updates, Firewall and more "
+"Protection."
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:544
+msgid "Help us to keep the bot database updated and the plugin stronger."
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:546
+msgid "Visit our Premium Page for more details."
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:551
+msgid ""
+"Paste below the Item Purchase Code received by email from us when you bought "
+"the premium version."
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:553
+msgid "You don't need reinstall the plugin."
+msgstr ""
+
+#: stopbadbots.php:84
+msgid "Stop Bad Bots: Could not load the localization file (Language file)"
+msgstr ""
+
+#: stopbadbots.php:86
+msgid ""
+"Please, take a look in our site, the online Guide, item => Plugin Language"
+msgstr ""

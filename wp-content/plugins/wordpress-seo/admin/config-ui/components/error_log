@@ -1,0 +1,1 @@
+[24-Oct-2021 11:27:57 UTC] PHP Fatal error:  Interface 'WPSEO_Config_Component' not found in /home/pitstopvadodara/public_html/wp-content/plugins/wordpress-seo/admin/config-ui/components/class-component-mailchimp-signup.php on line 11
